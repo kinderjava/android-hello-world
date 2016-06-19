@@ -15,7 +15,7 @@ Start from the `master` branch, build up the app by following these branches:
   * `04-menu`
   * `05-test`
 
-New line bitbucket
+New line gitlab
 
 # Pluralsight Course
 
